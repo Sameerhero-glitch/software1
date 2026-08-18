@@ -5,3 +5,9 @@
 ## Module 1
 
 I completed exercises 1 and 2, where I created a file named hello.py and uploaded in my github repository code.
+
+## Module 2
+
+I completed exercises 1, 2, and 3.
+
+I completed exercise 4 partially.
