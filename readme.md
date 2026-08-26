@@ -10,9 +10,11 @@ I completed exercises 1 and 2. hello.py and myfile.py
 
 ## Module 2
 
-I completed exercises 1. exercise1.py
+I completed all exercises
 
 
 ## Module 3
+Completed all the exercise in module 3
 
-I completed exercise 2 and 3. exercise2.py exercise3.py
+## Module 4
+Completed all the exercise in module 4
