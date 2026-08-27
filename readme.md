@@ -16,5 +16,38 @@ I completed all exercises
 ## Module 3
 Completed all the exercise in module 3
 
+
 ## Module 4
 Completed all the exercise in module 4
+
+
+## Module 5
+
+
+
+## Module 6
+
+
+
+## Module 7
+
+
+
+## Module 8
+
+
+
+## Module 9
+
+
+
+## Module 10
+
+
+
+## Module 11
+
+
+
+## Module 12&13
+
