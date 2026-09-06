@@ -31,7 +31,7 @@ Completed all the exercise in module 6
 
 ## Module 7
 
-
+Completed all the exercise in module 7
 
 ## Module 8
 
