@@ -1,0 +1,7 @@
+Game instructions:
+
+Type "move" to move to another room.
+Type "collect" to collect an item from the current room.
+Type "inventory" to see your collected items.
+Type "save" to save your game.
+Type "lopeta" to quit the game.

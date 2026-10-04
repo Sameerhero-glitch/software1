@@ -1,0 +1,6 @@
+Welcome to Treasure Hunt!
+
+You are an adventurer searching for valuable items.
+Explore different rooms, collect items and find the hidden treasure.
+
+Good luck!
