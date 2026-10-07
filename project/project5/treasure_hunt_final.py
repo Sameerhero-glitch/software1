@@ -66,7 +66,7 @@ if age < 12:
     print("You are a minor.")
     exit()
 
-print("Welcome", name + "!")
+print(f"Welcome {name}!!")
 
 
 # Create items

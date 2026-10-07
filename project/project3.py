@@ -5,7 +5,7 @@ if age < 12:
     print("You are a minor.")
     exit()
 
-print("Welcome", name + "!")
+print(f"Welcome {name} !!")
 
 inventory = []
 
@@ -17,7 +17,7 @@ def explore():
 def add_item():
     item = input("What item do you want to add to your inventory? ")
     inventory.append(item)
-    print(item, "has been added to your inventory.")
+    print(f"{item} has been added to your inventory.")
 
 
 def show_inventory():
